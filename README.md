@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paras01-hub&label=Profile%20views&color=0e75b6&style=flat" alt="paras01-hub" /> </p>
 
-- 🔭 I’m currently working on [Netflix_Analysis_SQL](https://github.com/Paras01-hub/NETFLIX_ANALYSIS_SQL)
+- 🔭 I’m currently working on AI Automation
 
 - 👨‍💻 All of my projects are available at [https://github.com/Paras01-hub](https://github.com/Paras01-hub)
 
